@@ -1,7 +1,7 @@
 device-tree: imx6q-nitrogen6x
 device-tree-origin: kernel
 volumes:
-  pocketbeagle:
+  nitrogen6:
     bootloader: u-boot
     schema: mbr
     structure:
